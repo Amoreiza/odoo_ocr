@@ -3,3 +3,4 @@
 # odoo-vendor-registration
 # torrfire-addons
 # torrfire-addons
+# gaspace-kpi
