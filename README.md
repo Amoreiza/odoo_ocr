@@ -7,3 +7,4 @@
 # gaspace-kpi
 # kufong-pos
 # kufong-pos
+# odoo_ocr
